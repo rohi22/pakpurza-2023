@@ -1,0 +1,177 @@
+.row{
+    direction: rtl !important;
+}
+.my-pill-location {
+    border-top-right-radius: 50rem !important;
+    border-bottom-right-radius: 50rem !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+.my-pill-search {
+    border-top-left-radius: 50rem !important;
+    border-bottom-left-radius: 50rem !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+.btn-desktop-search {
+    margin: 2px;
+    background: #AC2625;
+    color: white;
+    min-width: 30px;
+    margin-right: -2.6rem !important;
+}
+.location-div{
+    float:right;
+}
+.search-div{
+    float:right;
+    margin-right:-5px !important;
+}
+.btnHeadSell{
+    font-size:14px;
+}
+.col-md-12{
+    text-align:right;
+}
+#btn .fa-th-list{
+    margin-left:2px;
+}
+.flex-active-slide{
+    float:right !important;
+}
+.fa-comments span{
+    left:68% !important;
+}
+.arabic-sequence span{
+    left:75% !important;
+}
+.maanUl{
+    text-align:right;
+    padding-right:0px;
+}
+#nav{
+    text-align:right;
+    padding-right:0px;
+}
+#nav .parent{
+    text-align:right !important;
+}
+#navDown-Arabic{
+    display:block !important;
+}
+#navDown{
+    display:none;
+}
+.list-group{
+    padding-right:0px;
+}
+.p-r-0 h4{
+    padding-right:5px !important;
+}
+.col-md-4 .btnProductDetailActive{
+    font-size:11px;
+}
+.btnProductDetailActive > .col-md-4{
+    padding-right:10px;
+    padding-left:6px;
+}
+.have-padding-right-zero-arabic{
+    padding-right:0px;
+}
+.hide-arabic{
+    display:none;
+}
+.show-arabic{
+    display:block;
+}
+.arabic-float-left{
+    float:left;
+}
+.arabic-text-center{
+    margin-left:25px;
+}
+.arabic-text-center{
+    text-align:center;
+}
+.product-price{
+    float:right;
+}
+.product-detail-strike{
+    float:right;
+}
+.arabic-text-left{
+    text-align:left !important;
+}
+#navDown{
+    padding-left:0px;
+}
+.arabic-direction-ltr{
+    direction:ltr;
+}
+.arabic-float-left-button{
+    float:left !important;
+    margin-left:10px;
+}
+.arabic-padding-left-10{
+    padding-left:10px !important;
+}
+.arabic-float-left-btn{
+    float:left !important;
+}
+.arabic-no-padding-left{
+    padding-left:0px;
+}
+.arabic-float-right{
+    float:right !important;
+}
+.arabic-text-align-right{
+    text-align:right;
+}
+.arabic-padding-right-10{
+    padding-right:10px !important;
+}
+#calendar_container1 > #events_container1 > .event_block1 > .title1{
+    width:473px !important;
+    direction:rtl !important;
+}
+.arabic-file{
+    left:50px !important;
+}
+.m-left-btn{
+    margin-left:28px;
+}
+@media screen and (min-width:1250px){
+    .product-price{
+        font-size:17px;
+    }
+    .arabic-changes-right{
+    width: 200px !important;
+    position: absolute;
+    top: 15px;
+    background: #61a5ad;
+    padding: 3px;
+    font-size: 11px !important;
+    transform: rotate(38deg);
+    right: -72px !important;
+    }
+}
+@media screen and (max-width:480px){
+    .arabic-mobile-issue-padding-right{
+        padding-right:10px !important;
+    }
+}
+html .ml-n5-location {
+    margin-right: -1.5rem !important;
+}
+.m-r-0{
+    margin-right: 0px !important;
+}
+.text-right {
+    text-align: right!important;
+}
+.arabic-text-left-important{
+    text-align:left !important;
+}
+.arabic-text-right{
+    text-align:right !important;
+}

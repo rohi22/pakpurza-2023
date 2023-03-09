@@ -1,0 +1,207 @@
+
+    .form-custom-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+    }
+    .m-t-20{
+        margin-top:20px !important;
+    }
+    .login-box{
+        width: 100% !important;
+        max-width: 450px !important;
+    }
+    .form-custom-control:focus {
+        border-color: #c2c2c2 !important;
+        outline: 0 !important;
+        box-shadow: 0 0 5px 0 #c2c2c2 !important;
+            
+    }
+    .font-12{
+        font-size: 12px !important;
+    }
+    .btn-primary{
+        width: 40%;
+        font-weight:bold;
+        background: #006e9f;
+        padding: 10px;
+        text-transform: uppercase;
+        border: 1px solid #006e9f;
+        
+    }
+    
+    .btn-primary-two{
+        width: 80%;
+        font-weight:bold;
+        background: #006e9f;
+        padding: 10px;
+        color:white;
+        text-transform: uppercase;
+        border: 1px solid #006e9f;
+        
+    }
+    
+    .btn-fb{
+        width: 80%;
+        border-radius:20px;
+        color:white !important;
+        font-weight:bold;
+        background: #3a579b;
+        padding: 10px;
+        border: 1px solid #3a579b;
+        
+    }
+    .btn-fb:hover{
+        width: 80%;
+        border-radius:20px;
+        color:white !important;
+        font-weight:bold;
+        background: #3a579b;
+        padding: 10px;
+        border: 1px solid #3a579b;
+        
+    }
+    .btn-google{
+        width: 80%;
+        border-radius:20px;
+        color:white !important;
+        font-weight:bold;
+        background: #d84f3c;
+        padding: 10px;
+        border: 1px solid #d84f3c;
+        
+    }
+    .btn-google:hover{
+        width: 80%;
+        border-radius:20px;
+        color:white !important;
+        font-weight:bold;
+        background: #d84f3c;
+        padding: 10px;
+        border: 1px solid #d84f3c;
+        
+    }
+    .btn-mobile{
+        width: 80%;
+        border-radius:20px;
+        color:white !important;
+        font-weight:bold;
+        background: #07c0d5;
+        padding: 10px;
+        border: 1px solid #07c0d5;
+        
+    }
+    .btn-mobile:hover{
+        width: 80%;
+        border-radius:20px;
+        color:white !important;
+        font-weight:bold;
+        background: #07c0d5;
+        padding: 10px;
+        border: 1px solid #07c0d5;
+        
+    }
+    
+    .btn-forget{
+        width: 80%;
+        border-radius:20px;
+        color:white !important;
+        font-weight:bold;
+        background: #AC2625;
+        padding: 10px;
+        border: 1px solid #AC2625;
+        
+    }
+    .btn-forget:hover{
+        width: 80%;
+        border-radius:20px;
+        color:white !important;
+        font-weight:bold;
+        background: #000000;
+        padding: 10px;
+        border: 1px solid #000000;
+        transition:.5s;
+        
+    }
+    
+    .btn-primary-two:hover{
+        width: 80%;
+        box-shadow: none !important;
+        background: #fff;
+        padding: 10px;
+        color: #006e9f;
+        border: 1px solid #006e9f;
+        
+    }
+    
+    .btn-primary:hover{
+        box-shadow: none !important;
+        background: #fff;
+        padding: 10px;
+        color: #006e9f;
+        border: 1px solid #006e9f;
+        
+    }
+    .btn-secondary{
+        padding: 10px;
+    }
+    .form-group {
+        margin-bottom: 20px;
+    }
+    .width-100{width:100%}
+
+    .login-box {
+        width: 450px;
+        margin: 0 auto;
+    }
+    .line-height-20{
+        line-height: 20px !important;
+    }
+    .card-body{
+        padding: 30px;
+    }
+    .float-left{
+        float: left !important;
+    }
+    .search input {
+        background: #efefef;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+    }
+
+    .search .fa {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background: #c2c2c2;
+        color: white;
+        padding: 8px;
+        border-radius: 20px;
+    }
+
+    .help-block-error{
+        color:red;
+        font-family:verdana, Helvetica;
+        font-size:12px;
+        text-align:left;
+    }
+
+    .search .fa {left: 88%;    min-width: 30px;}
+
+    @media screen and (max-width: 600px) {
+    .search .fa {left: 82%;    min-width: 30px;}
+    .btn-fb{ font-size: 10px;}
+    .btn-mobile{ font-size: 10px;}
+    .btn-google{ font-size: 10px;}
+    }
+    .colorGreen {
+        color: #006e9f !important;
+        font-weight:500;
+    }
+    .help-block-error{
+    width:100% !important;
+}
